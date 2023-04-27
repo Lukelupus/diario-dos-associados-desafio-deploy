@@ -1,0 +1,1 @@
+# diario-dos-associados-desafio-deploy
